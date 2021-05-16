@@ -1,0 +1,46 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Thousands', 'Consolidated Statements of Cash Flows - USD ($) $ in Thousands')",,,
+Cash flows from operating activities:,,,
+Net income, 1211242, 558929, 186678
+Adjustments to reconcile net income to net cash used in operating activities:,,,
+Additions to streaming content assets,-13043437,-9805763,-8653286
+Change in streaming content liabilities,999880,900006,1772650
+Amortization of streaming content assets,7532088,6197817,4788498
+Amortization of DVD content assets,41212,60657,78952
+"Depreciation and amortization of property, equipment and intangibles",83157,71911,57528
+Stock-based compensation expense,320657,182209,173675
+Excess tax benefits from stock-based compensation,0,0,-65121
+Other non-cash items,40428,57207,40909
+Foreign currency remeasurement loss (gain) on long-term debt,-73953,140790,0
+Deferred taxes,-85520,-208688,-46847
+Changes in operating assets and liabilities:,,,
+Other current assets,-200192,-234090,46970
+Accounts payable,199198,74559,32247
+Accrued expenses,150422,114337,68706
+Deferred revenue,142277,177974,96751
+Other non-current assets and liabilities,2062,-73803,-52294
+Net cash used in operating activities,-2680479,-1785948,-1473984
+Cash flows from investing activities:,,,
+Purchases of property and equipment,-173946,-173302,-107653
+Acquisition of DVD content assets,-38586,-53720,-77177
+Other assets,-126588,-6689,-941
+Purchases of short-term investments,0,-74819,-187193
+Proceeds from sale of short-term investments,0,320154,282484
+Proceeds from maturities of short-term investments,0,22705,140245
+Net cash provided by (used in) investing activities,-339120,34329,49765
+Cash flows from financing activities:,,,
+Proceeds from issuance of debt,3961852,3020510,1000000
+Issuance costs,-35871,-32153,-10700
+Proceeds from issuance of common stock,124502,88378,36979
+Excess tax benefits from stock-based compensation,0,0,65121
+Other financing activities,-1956,255,230
+Net cash provided by financing activities,4048527,3076990,1091630
+"Effect of exchange rate changes on cash, cash equivalents and restricted cash",-39682,29848,-9165
+"Net increase (decrease) in cash, cash equivalents and restricted cash",989246,1355219,-341754
+"Cash and cash equivalents, beginning of year",2822795,1467576,1809330
+"Cash, cash equivalents and restricted cash, end of year",3812041,2822795,1467576
+Supplemental disclosure:,,,
+Income taxes paid,131069,113591,26806
+Interest paid,375831,213313,138566
+Increase (decrease) in investing activities included in liabilities, 2560, -32643, 27504

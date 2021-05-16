@@ -1,0 +1,40 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2016","Dec. 31, 2015","Dec. 31, 2014"
+"('Consolidated Statements of Cash Flows - USD ($)', 'Consolidated Statements of Cash Flows - USD ($)')",,,
+Cash flows from operating activities:,,,
+Net income, 930000000, 712000000, 754000000
+Adjustments to reconcile net income to net cash provided by operating activities from continuing operations:,,,
+Depreciation and other amortization,253000000,223000000,200000000
+Amortization of acquisition-related intangible assets,158000000,194000000,204000000
+Share-based compensation,68000000,65000000,49000000
+Excess tax benefits from share-based awards,-51000000,-38000000,-18000000
+Deferred income taxes,21000000,20000000,3000000
+Income from investment in unconsolidated affiliate,-147000000,-32000000,-91000000
+Dividends from unconsolidated affiliate,151000000,36000000,110000000
+Non-cash impairment charges,17000000,6000000,0
+Loss on early debt extinguishment,0,85000000,0
+Other operating activities,-2000000,-1000000,0
+"Changes in assets and liabilities, net of effects from acquisitions:",,,
+Trade accounts receivable,-88000000,-2000000,-42000000
+Prepaid expenses and other assets,-68000000,-66000000,-39000000
+Accounts payable and other liabilities,178000000,148000000,168000000
+Deferred revenue,11000000,-4000000,9000000
+Net cash provided by operating activities from continuing operations,1431000000,1346000000,1307000000
+Cash flows from investing activities:,,,
+"Capital expenditures, including capitalization of software costs",-290000000,-359000000,-292000000
+Payments for acquisitions of businesses,-265000000,0,0
+Net (purchases of) proceeds from investments,-1000000,1000000,7000000
+Other investing activities,2000000,-2000000,-1000000
+Net cash used in investing activities from continuing operations,-554000000,-360000000,-286000000
+Cash flows from financing activities:,,,
+Debt proceeds,2126000000,3121000000,604000000
+"Debt repayments, including redemption and other costs",-1863000000,-2707000000,-653000000
+Proceeds from issuance of treasury stock,79000000,71000000,53000000
+"Purchases of treasury stock, including employee shares withheld for tax obligations",-1245000000,-1522000000,-1148000000
+Excess tax benefits from share-based awards,51000000,38000000,18000000
+Other financing activities,0,-6000000,0
+Net cash used in financing activities from continuing operations,-852000000,-1005000000,-1126000000
+Net change in cash and cash equivalents from continuing operations,25000000,-19000000,-105000000
+Net cash flows to discontinued operations,0,0,-1000000
+"Cash and cash equivalents, beginning balance",275000000,294000000,400000000
+"Cash and cash equivalents, ending balance", 300000000, 275000000, 294000000

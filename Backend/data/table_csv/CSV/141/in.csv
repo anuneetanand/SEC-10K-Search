@@ -1,0 +1,28 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2019","Dec. 31, 2018","Dec. 31, 2017"
+"('CONSOLIDATED STATEMENT OF OPERATIONS - USD ($) $ in Millions', 'CONSOLIDATED STATEMENT OF OPERATIONS - USD ($) $ in Millions')",,,
+Income Statement [Abstract],,,
+Net Sales, 36709, 41802, 40534
+Costs and Expenses [Abstract],,,
+Cost of products and services sold,24339,29046,28144
+"Selling, general and administrative expenses",5519,6051,6087
+Other (income) expense,-1065,-1149,-963
+Interest and other financial charges,357,367,316
+"Cost, operating and non-operating expenses",29150,34315,33584
+Income before taxes,7559,7487,6950
+Tax expense,1329,659,5362
+Net income,6230,6828,1588
+Less: Net income attributable to the noncontrolling interest,87,63,43
+Net income attributable to Honeywell, 6143, 6765, 1545
+Earnings per share of common stock - basic, 8.52, 9.10, 2.03
+Earnings per share of common stock - assuming dilution, 8.41, 8.98, 2.00
+Products [Member],,,
+Income Statement [Abstract],,,
+Net Sales, 27629, 32848, 32317
+Costs and Expenses [Abstract],,,
+Cost of products and services sold,19269,23634,23176
+Services [Member],,,
+Income Statement [Abstract],,,
+Net Sales,9080,8954,8217
+Costs and Expenses [Abstract],,,
+Cost of products and services sold, 5070, 5412, 4968

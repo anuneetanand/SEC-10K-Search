@@ -1,0 +1,50 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 26, 2020","Dec. 28, 2019","Dec. 29, 2018"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Statement of Cash Flows [Abstract],,,
+"Cash and cash equivalents, beginning of period", 4194, 3019, 3433
+Cash flows provided by (used for) operating activities:,,,
+Net income,20899,21048,21053
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation,10482,9204,7520
+Share-based compensation,1854,1705,1546
+Amortization of intangibles,1757,1622,1565
+"(Gains) losses on equity investments, net",-1757,-892,155
+(Gains) losses on divestitures,-30,-690,-497
+Changes in assets and liabilities:,,,
+Accounts receivable,883,-935,-1714
+Inventories,-687,-1481,-214
+Accounts payable,412,696,211
+Accrued compensation and benefits,463,91,-260
+Customer deposits and prepaid supply agreements,-181,-782,1367
+Income taxes,1620,885,-1601
+Other assets and liabilities,-331,2674,301
+Total adjustments,14485,12097,8379
+Net cash provided by operating activities,35384,33145,29432
+Cash flows provided by (used for) investing activities:,,,
+"Additions to property, plant and equipment",-14259,-16213,-15181
+"Additions to held for sale NAND property, plant, and equipment",194,0,0
+"Acquisitions, net of cash acquired",-837,-1958,-190
+Purchases of available-for-sale debt investments,-6862,-2268,-3843
+Maturities and sales of available-for-sale debt investments,6781,4226,3163
+Purchases of trading assets,-22377,-9162,-9503
+Maturities and sales of trading assets,15377,7178,12111
+Purchases of equity investments,-720,-522,-874
+"Proceeds from Equity Method Investment, Distribution, Return of Capital",910,2688,2802
+Proceeds from Divestiture of Businesses,123,911,548
+Other investing,1262,715,-272
+Net cash used for investing activities,-20796,-14405,-11239
+Cash flows provided by (used for) financing activities:,,,
+"Issuance of term debt, net of issuance costs",10247,3392,423
+Repayments of Long-term Debt,-4525,-2627,-3026
+Proceeds from sales of common stock through employee equity incentive plans,897,750,555
+Repurchase of common stock,-14229,-13576,-10730
+Payment of dividends to stockholders,-5568,-5576,-5541
+Other financing,261,72,-288
+Net cash provided by (used for) financing activities,-12917,-17565,-18607
+Net increase (decrease) in cash and cash equivalents,1671,1175,-414
+"Cash and cash equivalents, end of period",5865,4194,3019
+Supplemental disclosures:,,,
+"Acquisition of property, plant and equipment included in accounts payable and accrued liabilities",2973,1761,2340
+"Interest, net of capitalized interest",594,469,448
+"Income taxes, net of refunds", 2436, 2110, 3813

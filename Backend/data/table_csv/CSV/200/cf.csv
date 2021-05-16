@@ -1,0 +1,37 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash flows from operating activities:,,,
+Net income, 8394, 1979, 7722
+Depreciation and amortization,1946,1955,2105
+Stock-based compensation expense,311,329,311
+Deferred income taxes,-363,-1330,183
+"Other items, net",386,334,32
+"Changes in operating assets and liabilities, net of acquisitions:",,,
+"Trade receivables, net",-378,-58,-214
+Inventories,-3,133,-80
+Other assets,35,-24,-128
+Accounts payable,-143,424,-44
+"Accrued income taxes, net",-361,523,-301
+Long-term tax liabilities,258,6681,445
+Other liabilities,1214,231,323
+Net cash provided by operating activities,11296,11177,10354
+Cash flows from investing activities:,,,
+Purchases of marketable securities,-18741,-33607,-28094
+Proceeds from sales of marketable securities,28356,24240,17958
+Proceeds from maturities of marketable securities,5412,6174,2459
+"Purchases of property, plant and equipment",-738,-664,-738
+"Cash acquired in acquisition, net of cash paid",195,-19,0
+Other,-145,-148,-243
+Net cash provided by (used in) investing activities,14339,-4024,-8658
+Cash flows from financing activities:,,,
+Net proceeds from issuance of debt,0,4476,7318
+Repayment of debt,-1121,-4405,-3725
+Repurchases of common stock,-17794,-3160,-2965
+Dividends paid,-3507,-3365,-2998
+Withholding taxes arising from shares withheld for share-based payments,-126,-191,-260
+Other,58,51,31
+Net cash used in financing activities,-22490,-6594,-2599
+Increase (decrease) in cash and cash equivalents,3145,559,-903
+Cash and cash equivalents at beginning of year,3800,3241,4144
+Cash and cash equivalents at end of year, 6945, 3800, 3241

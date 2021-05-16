@@ -1,0 +1,42 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2015"
+"('Consolidated Statements Of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements Of Cash Flows - USD ($) $ in Millions')",,,
+Operating activities:,,,
+Net income, 660.0, 735.9, 588.8
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+"Depreciation and loss on disposal of property, plant, and equipment, net",86.2,73.9,65.1
+Amortization of intangible assets,12.9,18.2,24.4
+"Loss on investment, accretion of discounts, and amortization of premiums on investments, net",21.2,35.9,26.4
+Deferred income taxes,62.9,18.7,4.6
+Income tax benefits from employee stock plans,0.0,29.8,21.5
+Share-based compensation expense,209.1,177.6,167.9
+"Changes in operating assets and liabilities, net of effects of acquisition:",,,
+Accounts receivable,-81.7,-35.9,-79.2
+Inventory,-115.5,-46.7,-10.7
+Prepaids and other assets,-28.5,-28.7,-10.5
+Accounts payable,14.0,15.9,-11.3
+Accrued compensation and employee benefits,31.2,18.7,21.5
+Deferred revenue,52.8,19.9,8.2
+Other liabilities,219.3,53.8,-10.5
+Net cash provided by operating activities (1),1143.9,1087.0,806.2
+Investing activities:,,,
+Purchase of investments,-1995.0,-2585.5,-1827.4
+Proceeds from sales of investments,1861.3,389.9,233.1
+Proceeds from maturities of investments,703.1,970.1,825.8
+"Purchase of property, plant and equipment, and intellectual property",-190.7,-53.9,-81.0
+Net cash provided by (used in) investing activities,378.7,-1279.4,-849.5
+Financing activities:,,,
+Proceeds from issuance of common stock relating to employee stock plans,415.5,580.9,361.1
+Taxes paid related to net share settlement of equity awards,-56.6,-24.0,-11.0
+Repurchase and retirement of common stock,-2274.0,-42.5,-183.7
+Other financing activities,2.0,0.0,-7.3
+Net cash provided by (used in) financing activities (1),-1913.1,514.4,159.1
+Effect of exchange rate changes on cash and cash equivalents,2.1,0.0,-1.5
+Net increase (decrease) in cash and cash equivalents,-388.4,322.0,114.3
+"Cash and cash equivalents, beginning of year",1036.6,714.6,600.3
+"Cash and cash equivalents, end of year", 648.2,1036.6,714.6
+ASU No. 2016-09,,,
+"Changes in operating assets and liabilities, net of effects of acquisition:",,,
+Net cash provided by operating activities (1),,44.1,34.3
+Financing activities:,,,
+Net cash provided by (used in) financing activities (1),, -44.1, -34.3

@@ -1,0 +1,59 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Jul. 31, 2020","Jul. 31, 2019","Jul. 31, 2018"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash flows from operating activities:,,,
+Net income, 1826, 1557, 1329
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation,189,199,228
+Amortization of acquired intangible assets,29,26,25
+Non-cash operating lease cost,60,0,0
+Share-based compensation expense,435,401,382
+Loss on sale of long-lived assets,0,0,79
+Deferred income taxes,-179,-7,-5
+Other,6,15,6
+Total adjustments,540,634,715
+Originations of loans held for sale,-566,0,0
+Sale and principal payments of loans held for sale,482,0,0
+Changes in operating assets and liabilities:,,,
+Accounts receivable,-59,11,5
+Income taxes receivable,53,5,-1
+Prepaid expenses and other assets,-31,-37,-33
+Accounts payable,33,90,12
+Accrued compensation and related liabilities,100,16,75
+Deferred revenue,38,39,6
+Operating lease liabilities,-61,0,0
+Other liabilities,59,9,4
+Total changes in operating assets and liabilities,132,133,68
+Net cash provided by operating activities,2414,2324,2112
+Cash flows from investing activities:,,,
+Purchases of corporate and customer fund investments,-701,-752,-407
+Sales of corporate and customer fund investments,130,84,128
+Maturities of corporate and customer fund investments,596,303,286
+Purchases of property and equipment,-59,-76,-38
+Capitalization of internal use software,-78,-79,-86
+"Acquisitions of businesses, net of cash acquired",0,-64,-363
+Originations of term loans to small businesses,-243,-316,-137
+Principal repayments of term loans from small businesses,287,267,82
+Other,-29,-2,3
+Net cash used in investing activities,-97,-635,-532
+Cash flows from financing activities:,,,
+"Proceeds from issuance of long-term debt, net of discount and issuance costs",1983,0,0
+Proceeds from borrowings under unsecured revolving credit facility,1000,0,800
+Repayments on borrowings under unsecured revolving credit facility,0,0,-800
+Proceeds from borrowings under secured revolving credit facility,0,48,0
+Repayment of debt,-50,-50,-50
+Proceeds from issuance of stock under employee stock plans,211,284,295
+Payments for employee taxes withheld upon vesting of restricted stock units,-244,-251,-199
+Cash paid for purchases of treasury stock,-323,-556,-272
+Dividends and dividend rights paid,-561,-501,-407
+Net change in customer fund deposits,19,69,-5
+Other,-1,-8,-1
+Net cash provided by (used in) financing activities,2034,-965,-639
+"Effect of exchange rates on cash, cash equivalents, restricted cash, and restricted cash equivalents",-6,-3,-11
+"Net increase in cash, cash equivalents, restricted cash, and restricted cash equivalents",4345,721,930
+"Cash, cash equivalents, restricted cash, and restricted cash equivalents at beginning of period",2352,1631,701
+"Cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period",6697,2352,1631
+"Total cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period",6697,1631,1631
+Supplemental disclosure of cash flow information:,,,
+Interest paid,14,17,19
+Income taxes paid, 493, 325, 245

@@ -1,0 +1,54 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Jul. 31, 2019","Jul. 31, 2018","Jul. 31, 2017"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash flows from operating activities:,,,
+Net income, 1557, 1329, 985
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation,199,228,214
+Amortization of acquired intangible assets,26,25,22
+Share-based compensation expense,401,382,326
+Loss on sale of long-lived assets,0,79,0
+Deferred income taxes,-7,-5,17
+Other,15,6,13
+Total adjustments,634,715,592
+Changes in operating assets and liabilities:,,,
+Accounts receivable,11,5,5
+Income taxes receivable,5,-1,-44
+Prepaid expenses and other assets,-37,-33,-13
+Accounts payable,90,12,0
+Accrued compensation and related liabilities,16,75,10
+Deferred revenue,39,6,64
+Other liabilities,9,4,0
+Total changes in operating assets and liabilities,133,68,22
+Net cash provided by operating activities,2324,2112,1599
+Cash flows from investing activities:,,,
+Purchases of corporate and customer fund investments,-752,-407,-352
+Sales of corporate and customer fund investments,84,128,359
+Maturities of corporate and customer fund investments,303,286,183
+Net change in customer fund deposits,69,-5,68
+Purchases of property and equipment,-76,-38,-102
+Capitalization of internal use software,-79,-86,-128
+"Acquisitions of businesses, net of cash acquired",-64,-363,0
+Originations of term loans to small businesses,-316,-137,0
+Principal repayments of term loans from small businesses,267,82,0
+Other,-2,3,-45
+Net cash used in investing activities,-566,-537,-17
+Cash flows from financing activities:,,,
+Proceeds from borrowings under unsecured revolving credit facility,0,800,150
+Repayments on borrowings under unsecured revolving credit facility,0,-800,-150
+Proceeds from borrowings under secured revolving credit facility,48,0,0
+Repayment of debt,-50,-50,-512
+Proceeds from issuance of stock under employee stock plans,284,295,226
+Payments for employee taxes withheld upon vesting of restricted stock units,-251,-199,-153
+Cash paid for purchases of treasury stock,-556,-272,-839
+Dividends and dividend rights paid,-501,-407,-353
+Other,-8,-1,-1
+Net cash used in financing activities,-1034,-634,-1632
+"Effect of exchange rates on cash, cash equivalents, restricted cash, and restricted cash equivalents",-3,-11,9
+"Net increase (decrease) in cash, cash equivalents, restricted cash, and restricted cash equivalents",721,930,-41
+"Cash, cash equivalents, restricted cash, and restricted cash equivalents at beginning of period",1631,701,742
+"Cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period",2352,1631,701
+"Total cash, cash equivalents, restricted cash, and restricted cash equivalents at end of period",2352,1631,742
+Supplemental disclosure of cash flow information:,,,
+Interest paid,17,19,42
+Income taxes paid, 325, 245, 430

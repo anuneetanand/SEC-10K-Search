@@ -1,0 +1,40 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2017","Dec. 31, 2016","Dec. 31, 2015"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash Flows from Operating Activities,,,
+Net Income, 30550, 13608, 18375
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation and amortization expense,16954,15928,16017
+Employee retirement benefits,440,2705,-1747
+Deferred income taxes,-14463,-1063,3516
+Provision for uncollectible accounts,1167,1420,1610
+"Equity in losses of unconsolidated businesses, net of dividends received",117,138,127
+"Changes in current assets and liabilities, net of effects from acquisition/disposition of businesses",,,
+Accounts receivable,-5436,-5067,-945
+Inventories,168,61,-99
+Other assets,656,449,942
+Accounts payable and accrued liabilities,-335,-1079,2545
+Discretionary contribution to qualified pension plans,-3411,-186,0
+Net gain on sale of divested businesses,-1774,-1007,0
+"Other, net",672,-3097,-1314
+Net cash provided by operating activities,25305,22810,39027
+Cash Flows from Investing Activities,,,
+Capital expenditures (including capitalized software),-17247,-17059,-17775
+"Acquisitions of businesses, net of cash acquired",-5928,-3765,-3545
+Acquisitions of wireless licenses,-583,-534,-9942
+Proceeds from dispositions of businesses,3614,9882,48
+"Other, net",772,493,1171
+Net cash used in investing activities,-19372,-10983,-30043
+Cash Flows from Financing Activities,,,
+Proceeds from long-term borrowings,27707,12964,6667
+Proceeds from asset-backed long-term borrowings,4290,4986,0
+Repayments of long-term borrowings and capital lease obligations,-23837,-19159,-9340
+Repayments of asset-backed long-term borrowings,-400,0,0
+"Decrease in short-term obligations, excluding current maturities",-170,-149,-344
+Dividends paid,-9472,-9262,-8538
+Purchase of common stock for treasury,0,0,-5134
+"Other, net",-4852,-2797,1577
+Net cash used in financing activities,-6734,-13417,-15112
+Decrease in cash and cash equivalents,-801,-1590,-6128
+"Cash and cash equivalents, beginning of period",2880,4470,10598
+"Cash and cash equivalents, end of period", 2079, 2880, 4470

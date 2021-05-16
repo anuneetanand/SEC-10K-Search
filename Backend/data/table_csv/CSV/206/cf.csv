@@ -1,0 +1,54 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 29, 2018","Dec. 30, 2017","Dec. 31, 2016"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Statement of Cash Flows [Abstract],,,
+"Cash and cash equivalents, beginning of period", 3433, 5560, 15308
+Cash flows provided by (used for) operating activities:,,,
+Net income,21053,9601,10316
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation,7520,6752,6266
+Share-based compensation,1546,1358,1444
+Amortization of intangibles,1565,1377,1524
+"(Gains) losses on equity investments, net",-155,2583,432
+Loss on debt conversion and extinguishment,260,476,0
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",497,387,0
+Deferred taxes,-1749,1548,257
+Changes in assets and liabilities:,,,
+Accounts receivable,-1714,-781,65
+Inventories,-214,-1300,119
+Accounts payable,211,191,182
+Accrued compensation and benefits,-260,311,291
+Customer deposits and prepaid supply agreements,1367,1105,0
+Income taxes payable and receivable,148,5230,1382
+Other assets and liabilities,41,-788,394
+Total adjustments,8379,12509,11492
+Net cash provided by operating activities,29432,22110,21808
+Cash flows provided by (used for) investing activities:,,,
+"Additions to property, plant and equipment",-15181,-11778,-9625
+"Acquisitions, net of cash acquired",-190,-14499,-15470
+Purchases of available-for-sale debt investments,-3843,-2746,-9269
+Sales of available-for-sale debt investments,195,1833,2847
+Maturities of available-for-sale debt investments,2968,3687,5654
+Purchases of trading assets,-9503,-13700,-12237
+Maturities and sales of trading assets,12111,13970,10898
+Purchases of equity investments,-874,-1619,-963
+"Proceeds from Equity Method Investment, Distribution, Return of Capital",2802,5236,1080
+Proceeds from Divestiture of Businesses,548,3124,0
+Other investing,-272,730,1268
+Net cash used for investing activities,-11239,-15762,-25817
+Cash flows provided by (used for) financing activities:,,,
+Proceeds from (Repayments of) Short-term Debt,460,12,-15
+"Issuance of long-term debt, net of issuance costs",423,7716,2734
+Repayments of Long-term Debt,-3026,-8080,-1500
+Proceeds from sales of common stock through employee equity incentive plans,555,770,1108
+Repurchase of common stock,-10730,-3615,-2587
+Payment of dividends to stockholders,-5541,-5072,-4925
+Other financing,-748,-206,-554
+Net cash provided by (used for) financing activities,-18607,-8475,-5739
+Net increase (decrease) in cash and cash equivalents,-414,-2127,-9748
+"Cash and cash equivalents, end of period",3019,3433,5560
+Supplemental disclosures:,,,
+"Acquisitions of property, plant, and equipment included in accounts payable and accrued liabilities",2340,1417,979
+Transfer to Investments,0,1078,0
+"Interest, net of capitalized interest",448,624,682
+"Income taxes, net of refunds", 3813, 3824, 877

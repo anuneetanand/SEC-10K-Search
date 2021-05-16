@@ -1,0 +1,38 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2020","Dec. 31, 2019","Dec. 31, 2018"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash Flows from Operating Activities,,,
+Net Income, 18348, 19788, 16039
+Adjustments to reconcile net income to net cash provided by operating activities:,,,
+Depreciation and amortization expense,16720,16682,17403
+Employee retirement benefits,840,-284,-2657
+Deferred income taxes,1553,1232,389
+Provision for expected credit losses,1380,1588,980
+"Equity in losses of unconsolidated businesses, net of dividends received",91,74,231
+Media goodwill impairment,0,186,4591
+"Changes in current assets and liabilities, net of effects from acquisition/disposition of businesses:",,,
+Accounts receivable,189,-1471,-2667
+Inventories,-369,-76,-324
+Prepaid expenses and other,1202,-2807,37
+Accounts payable and accrued liabilities and Other current liabilities,-966,-2359,1777
+Discretionary employee benefits contributions,0,-300,-1679
+"Other, net",2780,3493,219
+Net cash provided by operating activities,41768,35746,34339
+Cash Flows from Investing Activities,,,
+Capital expenditures (including capitalized software),-18192,-17939,-16658
+"Acquisitions of businesses, net of cash acquired",-520,-29,-230
+Acquisitions of wireless licenses,-2126,-898,-1429
+Proceeds from dispositions of businesses,0,28,0
+"Other, net",-2674,1257,383
+Net cash used in investing activities,-23512,-17581,-17934
+Cash Flows from Financing Activities,,,
+Proceeds from long-term borrowings,25822,10079,5967
+Proceeds from asset-backed long-term borrowings,5635,8576,4810
+Repayments Of Long Term Borrowings And Finance Lease Obligations,-9775,-17584,-10923
+Repayments of asset-backed long-term borrowings,-7413,-6302,-3635
+Dividends paid,-10232,-10016,-9772
+"Other, net",-2712,-2917,-1824
+Net cash provided by (used in) financing activities,1325,-18164,-15377
+"Increase in cash, cash equivalents and restricted cash",19581,1,1028
+"Cash, cash equivalents and restricted cash, beginning of period",3917,3916,2888
+"Cash, cash equivalents and restricted cash, end of period", 23498, 3917, 3916

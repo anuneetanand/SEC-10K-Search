@@ -1,0 +1,48 @@
+,12 Months Ended,12 Months Ended,12 Months Ended
+,"Dec. 31, 2018","Dec. 31, 2017","Dec. 31, 2016"
+"('Consolidated Statements of Cash Flows - USD ($) $ in Millions', 'Consolidated Statements of Cash Flows - USD ($) $ in Millions')",,,
+Cash flows from operating activities:,,,
+Net income, 1187, 1246, 930
+Adjustment for discontinued operations,0,-14,0
+Adjustments to reconcile net income to net cash provided by operating activities from continuing operations:,,,
+Depreciation and other amortization,393,285,263
+Amortization of acquisition-related intangible assets,163,159,158
+Share-based compensation,73,63,68
+Excess tax benefits from share-based awards,0,0,-51
+Deferred income taxes,133,-247,21
+Gain on sale of businesses,-227,-10,0
+Loss on early debt extinguishment,14,0,0
+Income from investments in unconsolidated affiliates,-10,-32,-147
+Dividends from unconsolidated affiliates,2,45,151
+Non-cash impairment charges,3,18,17
+Other operating activities,-10,-4,-2
+"Changes in assets and liabilities, net of effects from acquisitions and dispositions:",,,
+Trade accounts receivable,-108,-75,-88
+Prepaid expenses and other assets,-6,-37,-64
+Contract costs,-137,-29,-14
+Accounts payable and other liabilities,116,54,172
+Contract liabilities,-34,61,17
+Net cash provided by operating activities from continuing operations,1552,1483,1431
+Cash flows from investing activities:,,,
+"Capital expenditures, including capitalization of software costs",-360,-287,-290
+Proceeds from sale of businesses,419,17,0
+"Payments for acquisitions of businesses, net of cash acquired",-712,-384,-265
+Purchases of investments,-3,-10,-1
+Other investing activities,-7,7,2
+Net cash used in investing activities from continuing operations,-663,-657,-554
+Cash flows from financing activities:,,,
+Debt proceeds,5039,2310,2126
+"Debt repayments, including redemption and other costs",-4005,-1985,-1863
+Proceeds from issuance of treasury stock,75,78,79
+"Purchases of treasury stock, including employee shares withheld for tax obligations",-1946,-1223,-1245
+Excess tax benefits from share-based awards,0,0,51
+Other financing activities,-5,0,0
+Net cash used in financing activities from continuing operations,-842,-820,-852
+Net change in cash and cash equivalents from continuing operations,47,6,25
+Net change in cash and cash equivalents from discontinued operations,43,19,0
+"Cash and cash equivalents, beginning balance",325,300,275
+"Cash and cash equivalents, ending balance",415,325,300
+Net Cash Provided by (Used in) Discontinued Operations [Abstract],,,
+Net cash (used in) provided by operating activities,-7,19,0
+Net cash provided by investing activities,50,0,0
+Net change in cash and cash equivalents from discontinued operations, 43, 19, 0
