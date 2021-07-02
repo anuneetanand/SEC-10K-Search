@@ -53,7 +53,11 @@ npm run serve
 - Sentiment Analysis on Management's Decisions.
 
 ## Evaluation 📊
-<img width="500" alt="Screenshot 2021-05-16 at 16 24 39" src="https://user-images.githubusercontent.com/42066451/118394592-390b6e00-b663-11eb-8805-55931a430725.png">
+| Method      | Precision@3 | Precision@5 | Precision@10 |
+| ----------- | ----------- | ----------- | ------------ |
+| TF-IDF      | 0.78        | 0.74        | 0.54         |
+| log(TF)-IDF | 0.48        | 0.46        | 0.41         |
+| BM-25       | 0.66        | 0.65        | 0.51         |
 
 ## Team
 
